@@ -1,0 +1,60 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/transitional.dtd">
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" >
+<meta http-equiv="content-language" content="pl" >
+<meta name="Description" content="Strona Komputerowa" >
+<meta name="Keywords" content="Komputer, Karta Graficzna, Skladanie Komputerow" >
+<meta name="author" content="Mateusz Pacek" >
+<title>struktura strony</title>
+<link rel="shortcut icon" href="favicon.ico" >
+<link rel="stylesheet" type="text/css" href="style/styll.css" >
+</head>
+
+body>
+
+<!--organizacja strony-->
+<!--naglowek-->
+<p>zadanie: przygotowanie szablonu strony</p>
+<p>autor: Mateusz Pacek</p>
+<br>
+<a href="stornainternetowa/">  Zadanie1 </a>
+<br>
+<br>
+Pytanie 1
+<br>
+1. Główne różnice między HTML 4.01 i XHTML 1.0
+<br>
+Odpowiedz 1:
+<br>
+-Znaczniki należy zamykać obowiązkowo w kolejności odwrotnej do ich otwierania;
+<br>
+-Znaczniki należy zamykać obowiązkowo w kolejności odwrotnej do ich otwierania;
+<br>
+-Nazwy znaczników i atrybutów obowiązkowo muszą być pisane małymi literami;
+<br>
+<br>
+Pytanie 2
+<br>
+Jaka jest podstawowa funkcja HTML i XHTML?
+<br>
+Odpowiedz 2:
+<br>
+-Rozszerzalny język znaczników hipertekstowych) – język służący do tworzenia stron WWW ogólnego przeznaczenia.
+<br>
+<br>
+<!-- zasadnicza zawartosc-->
+   <!-- walidatory- nie trzeba ich kodu przepisywac, po napisaniu strony sprawdzmy ja na http://validator.w3.org (dla kodu HTML)
+    i na jigsaw.w3.org/css-validator (dla kodu CSS). Jesli jest poprawna wyswietli sie ponizszy kod do pobrania.-->
+	      <p>
+    <a href="http://validator.w3.org/check?uri=referer"><img
+      src="http://www.w3.org/Icons/valid-html401" alt="Valid HTML 4.01 Transitional" height="31" width="88"></a>
+  </p>
+		    
+	     <a href="http://jigsaw.w3.org/css-validator/check/referer">
+		     <img style="border: 0; width: 88px; height: 31px" src="http://jigsaw.w3.org/css-validator/images/vcss" alt="Poprawny CSS!" ></a>
+			 
+			 
+			 
+			 </body>
+			 </html>
